@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 项目介绍
 
 校园社交平台，旨在为大学校园提供一个社交平台，通过发布动态为校园学生提供分享校园生活，交友，求助，二手交易等需求。同时管理员可对动态、用户管理，包括进行包括增、删、改、查等操作。
@@ -275,3 +276,7 @@ sudo npm install -g yarn
 ## 4.chatGPT注册和访问
 
 如果你仍不清楚如何注册和访问chatGPT，推荐阅读[chatGPT到底要怎样注册！！](https://mp.weixin.qq.com/s?__biz=MzkxNjQ2MTM0MA==&mid=2247483685&idx=1&sn=eb52dd61dbd1693c77bb5e413a348668&chksm=c14ec356f6394a40e0451f7b372d5568adfe5a608ff19ec443648e5e07afe44f8eae76f242c6&token=584515009&lang=zh_CN#rd)
+=======
+# campus-social
+校园社交平台
+>>>>>>> ce1fe5ad5fa4200d7e1a9942cce76372560a3dd9
