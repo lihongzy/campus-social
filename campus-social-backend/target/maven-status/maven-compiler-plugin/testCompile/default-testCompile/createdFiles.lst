@@ -1,0 +1,4 @@
+com\lihong\campussocial\controller\PostControllerTest.class
+com\lihong\campussocial\service\PostServiceTest.class
+com\lihong\campussocial\service\UserServiceTest.class
+com\lihong\campussocial\UsercentersApplicationTests.class
